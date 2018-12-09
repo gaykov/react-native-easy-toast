@@ -3,7 +3,6 @@
  * https://github.com/crazycodeboy/react-native-easy-toast
  * Email:crazycodeboy@gmail.com
  * Blog:http://jiapenghui.com
- * @flow
  */
 
 import React, {Component} from 'react';
